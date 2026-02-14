@@ -1,0 +1,45 @@
+# ======================
+# Python Cache
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ======================
+# Virtual Environment
+# ======================
+venv/
+env/
+.venv/
+ENV/
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+
+# ======================
+# Jupyter Notebook
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Optional: Generated Media
+# (Uncomment if outputs are auto-generated)
+# ======================
+# *.mp4
+# *.avi
+# *.png
+# *.jpg
